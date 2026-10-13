@@ -1,0 +1,42 @@
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# Compiled binaries and libraries
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
+
+# CUDA build artifacts
+*.cubin
+*.fatbin
+*.ptx
+*.sass
+*.nvbin
+
+# Debugging and profiling
+core
+core.*
+*.nsys-rep
+*.ncu-rep
+*.prof
+
+# Benchmark output
+results/*.csv
+results/*.json
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*~
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
