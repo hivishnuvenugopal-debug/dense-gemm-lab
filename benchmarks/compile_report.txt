@@ -1,0 +1,37 @@
+ptxas info    : 0 bytes gmem
+ptxas info    : Compiling entry function '_Z26register_tiled_gemm_kernelILi4ELi4ELi32EEvPKfS1_Pfiii' for 'sm_80'
+ptxas info    : Function properties for _Z26register_tiled_gemm_kernelILi4ELi4ELi32EEvPKfS1_Pfiii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 38 registers, 388 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z26register_tiled_gemm_kernelILi4ELi2ELi32EEvPKfS1_Pfiii' for 'sm_80'
+ptxas info    : Function properties for _Z26register_tiled_gemm_kernelILi4ELi2ELi32EEvPKfS1_Pfiii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 30 registers, 388 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z26register_tiled_gemm_kernelILi4ELi1ELi32EEvPKfS1_Pfiii' for 'sm_80'
+ptxas info    : Function properties for _Z26register_tiled_gemm_kernelILi4ELi1ELi32EEvPKfS1_Pfiii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 44 registers, 388 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z26register_tiled_gemm_kernelILi2ELi4ELi32EEvPKfS1_Pfiii' for 'sm_80'
+ptxas info    : Function properties for _Z26register_tiled_gemm_kernelILi2ELi4ELi32EEvPKfS1_Pfiii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 30 registers, 388 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z26register_tiled_gemm_kernelILi2ELi2ELi32EEvPKfS1_Pfiii' for 'sm_80'
+ptxas info    : Function properties for _Z26register_tiled_gemm_kernelILi2ELi2ELi32EEvPKfS1_Pfiii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 44 registers, 388 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z26register_tiled_gemm_kernelILi2ELi1ELi32EEvPKfS1_Pfiii' for 'sm_80'
+ptxas info    : Function properties for _Z26register_tiled_gemm_kernelILi2ELi1ELi32EEvPKfS1_Pfiii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 54 registers, 388 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z26register_tiled_gemm_kernelILi1ELi4ELi32EEvPKfS1_Pfiii' for 'sm_80'
+ptxas info    : Function properties for _Z26register_tiled_gemm_kernelILi1ELi4ELi32EEvPKfS1_Pfiii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 50 registers, 388 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z26register_tiled_gemm_kernelILi1ELi2ELi32EEvPKfS1_Pfiii' for 'sm_80'
+ptxas info    : Function properties for _Z26register_tiled_gemm_kernelILi1ELi2ELi32EEvPKfS1_Pfiii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 56 registers, 388 bytes cmem[0]
+ptxas info    : Compiling entry function '_Z26register_tiled_gemm_kernelILi1ELi1ELi32EEvPKfS1_Pfiii' for 'sm_80'
+ptxas info    : Function properties for _Z26register_tiled_gemm_kernelILi1ELi1ELi32EEvPKfS1_Pfiii
+    0 bytes stack frame, 0 bytes spill stores, 0 bytes spill loads
+ptxas info    : Used 56 registers, 388 bytes cmem[0]
